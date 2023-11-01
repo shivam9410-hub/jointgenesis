@@ -1,0 +1,30 @@
+.ingdiv{
+    width: 100%; ;
+    margin-bottom: 35px;
+    display: flex;
+
+    align-items: center;
+
+}
+
+    .id{
+   margin-right: 30px;
+   background-color: black;
+   padding: 13px 20px;
+   border-radius: 50%;
+   color: white;
+    }
+    .ingdiv{
+
+    }
+
+   
+    @media screen and (max-width:768px) {
+      .ingdiv{
+        width: 100%; ;
+        margin-bottom: 40px;
+        display: flex;
+      align-items: center;
+   
+    }
+    }

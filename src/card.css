@@ -1,0 +1,34 @@
+.mycard{
+
+   
+ cursor: pointer;
+ padding: 20px;
+ width: 300px;
+ display: flex;
+ flex-direction: column;
+background-color: whitesmoke;
+
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+
+ box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.mycard img{
+  width: 100%;
+  height: 60%;
+
+}
+@media  screen and (max-width:768px) {
+  .mycard{
+      
+      width: 80%;
+  
+      margin-bottom: 10px;
+  }
+  .mycard img{
+    width: 100%;
+    height: 40%;
+
+  }
+}

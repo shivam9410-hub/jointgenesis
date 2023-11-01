@@ -1,0 +1,37 @@
+.faqcard{
+    width: 70%;
+
+  padding-top: 15px;
+  padding-bottom: 20px;
+
+border-bottom: 1px solid grey;
+font-size: 20px;;
+font-weight: bold;
+   
+}
+.ques{
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    font-weight: bold;
+
+  }
+
+.ans-div {
+    height: 0;
+    overflow: hidden;
+    transition: height 1.5s ease-in-out;
+padding-top: 10px;;
+font-weight: lighter;
+padding-bottom: 10px; 
+}
+  .ans-div.expanded {
+    height: auto ;/* Set the desired height when expanded */
+  }
+
+  @media screen and (max-width:768px) {
+    .faqcard{
+      width:100% ;
+      padding:10px;
+     }
+  }

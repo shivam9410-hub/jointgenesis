@@ -1,0 +1,30 @@
+.happen{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center; 
+     
+   padding-top: 40px;
+   padding-bottom: 40px;
+   height: auto;
+}
+.happencontent{
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.happentext{
+    text-align: left;
+}
+.happenimg{
+
+    height: 600px;;
+    margin-bottom: 20px;;
+}
+.happenimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

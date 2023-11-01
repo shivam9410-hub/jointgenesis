@@ -1,0 +1,63 @@
+.testicard{
+    width: 25%;
+ 
+    padding:20px;
+    
+      display: flex;
+
+    flex-direction: column;
+    align-items: center;
+   justify-content: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ text-align: center;
+
+}
+.desc{
+    font-size: 18px !important;
+}
+.testimonalpage{
+ 
+  
+   display: flex;;
+   flex-wrap:wrap;
+   padding-top: 40px;
+   padding-bottom: 40px;
+  
+
+    justify-content: space-around;
+}
+.image{
+    border-radius: 50%;
+    height:200px;
+    width: 200px;
+    margin-bottom: 10px;
+    object-fit: cover;
+}
+
+@media screen and (max-width:768px) {
+    .testicard{
+       
+     
+  
+    
+   
+     
+        width: 80%;
+        height: auto;
+        display: block;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 10px;
+    
+    }
+    .testimonalpage{
+        display: flex;
+         flex-direction: column;
+       
+      
+        padding-top: 50px;;
+        padding-bottom: 50px;
+        justify-content: center;
+        align-items: center;
+    }
+}

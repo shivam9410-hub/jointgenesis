@@ -1,0 +1,8 @@
+.benefits{
+    padding: 40px;;
+}
+@media  screen and (max-width:768px) {
+    .benefits{
+        padding: 5px;
+    }
+}

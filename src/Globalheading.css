@@ -1,0 +1,17 @@
+.heading{
+     background: black;
+     color:white ; 
+     min-height: 80px;
+     font-weight: bold;
+     text-align: center;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+}
+@media  screen and (max-width:768px) {
+   .heading{
+     width: 100%; 
+   }
+  
+}

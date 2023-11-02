@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Benefits.css'
 const Benefit = ({title,about}) => {
   return (
     <div class='d-flex ' style={{alignItems:'center'}}>

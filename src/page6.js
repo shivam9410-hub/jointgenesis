@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
 import Ingredient from "./Ingredient";
-
+import './Ingredient.css'
 const IngredientPage = () => {
   const ingredients = [
     {id:1,
@@ -43,8 +43,9 @@ const IngredientPage = () => {
   ];
 
   return (
-    <Container fluid style={{padding:'50px'}}>
-      <p>
+    <Container fluid  className="ingredientpage">
+    <div className="ingredientpagetext">
+    <p>
         The Endo Peak supplement is made of all the natural and organic
         ingredients. Have a look at the ingredients of the Endo Peak in the
         below section:
@@ -57,6 +58,7 @@ const IngredientPage = () => {
       {ingredients.map((obj) => {
         return <Ingredient id={obj.id} title={obj.title} desc={obj.desc} />;
       })}
+    </div>
     </Container>
   );
 };

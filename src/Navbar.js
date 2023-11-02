@@ -5,7 +5,7 @@ function NavBar() {
   return (
   <nav className="navbar navbar-expand-lg bg-dark text-light p-3">
     <div className="container-fluid " >
-      <strong><a className="navbar-brand text-light brand" href="#">JOINT GENESIS</a></strong>
+      <strong><a className="navbar-brand text-light brand  ml-3" href="#">JOINT GENESIS</a></strong>
       <button className="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon "></span>
       </button>

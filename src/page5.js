@@ -1,9 +1,10 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-
+import './EndoWork.css'
 const EndoWork = () => {
   return (
-    <Container fluid   style={{padding:'40px'}}>
+    <Container fluid   className="endowork" >
+      <div className="endoworktext">
       <p>
       As we age, the loss of a vital component called "joint jello" can lead to problems such as stiffness, swelling, and soreness in our joints. However, joint pain is not limited to older individuals. 
 
@@ -25,8 +26,8 @@ Dehydrating and thickening the synovial fluid increases the levels of hyaluronan
 
 It enhances blood supply, ensuring a steady delivery of oxygen and nutrients to the cartilage tissue. By addressing the loss of hyaluronan and promoting joint health, this supplement offers hope for individuals experiencing joint discomfort, regardless of their age.
 
-
-      </p>
+</p>
+      </div>
     </Container>
   );
 };

@@ -1,0 +1,10 @@
+.endowork{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.endoworktext{
+    width: 80%; ;
+
+}

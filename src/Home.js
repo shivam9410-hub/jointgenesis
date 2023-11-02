@@ -19,7 +19,7 @@ const Home = () => {
           
         </div>
         <div className="hometext" >
-          <strong><h1> Joint Genesis|Official Store</h1>
+          <strong><h1> BioDynamix | Official Store</h1>
           </strong><p>
             
 Joint Genesis targets the aging-related loss of hyaluronan to address the underlying cause of age-related joint degeneration.

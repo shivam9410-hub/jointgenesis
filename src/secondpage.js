@@ -12,22 +12,22 @@ const SecondPage = () => {
     {
       title: "Made In USA",
       img:   madeinusa,
-      description: "EndoPeak is manufactured in a US-based facility.",
+      description: "BioDynamix is manufactured in a US-based facility.",
     },
     {
       title: "100% Natural",
       img: naturalimage,
-      description: "In EndoPeak all ingredients are pure, natural, and carefully sourced.",
+      description: "In BioDynamix all ingredients are pure, natural, and carefully sourced.",
     },
     {
       title: "GMP Certified",
       img: gmpcertified,
-      description: "EndoPeak is GMP certified ensuring pharmaceutical grade quality.",
+      description: "BioDynamix is GMP certified ensuring pharmaceutical grade quality.",
     },
     {
       title: "FDA Approved",
       img: fdaapproved,
-      description: "EndoPeak is manufactured according to the latest standards",
+      description: "BioDynamix is manufactured according to the latest standards",
     },
   ];
   return (

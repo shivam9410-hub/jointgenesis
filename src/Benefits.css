@@ -3,7 +3,10 @@
 }
 @media  screen and (max-width:768px) {
     .benefits{
-        padding: 5px;
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 30px;
     }
 }
 .svgicon{

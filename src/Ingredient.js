@@ -8,7 +8,7 @@ const Ingredient = ({id,title,desc}) => {
   </div>
     
       <div className="ingdetail">
-       <strong> <h4 style={{fontWeight:'bolder'}}>{title}</h4></strong>
+       <strong> <span style={{fontWeight:'bolder'}}>{title}</span></strong>
         <p> {desc}</p>
       </div>
     </div>

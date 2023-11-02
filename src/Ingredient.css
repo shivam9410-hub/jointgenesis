@@ -42,3 +42,9 @@
 
 
     }
+    @media screen and (max-width:768px) {
+     .ingredientpagetext{
+      width: 100%;;
+      padding:10px
+     }
+    }

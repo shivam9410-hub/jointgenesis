@@ -5,7 +5,7 @@ import doctorjointgenesis from './assets/gurantee.webp'
 const GuranteePage = () => {
   return (
    <Container fluid className='guarantee'>
-    <h1>EndoPeak-100% Satisfaction Guaranteed</h1>
+    <h1>BioDynamix-100% Satisfaction Guaranteed</h1>
   <div className='content'>
     <div  className='guaranteeimg'><img alt='' src={doctorjointgenesis}/></div>
     <div className='contenttext'>

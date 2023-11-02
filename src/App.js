@@ -15,8 +15,8 @@ import Benefits from "./Benefits";
 import Dontwaitpage from "./dontwaitpage";
 import Happen from "./Happen";
 import Price from "./Price";
-import { NavbarToggle } from "react-bootstrap";
-import NavBar from "./Navbar";
+import { NavbarToggle } from "react-bootstrap"
+import NavBar from './components/NavBar'
 import Fda from "./fda";
 function App() {
   return (

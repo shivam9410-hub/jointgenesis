@@ -12,7 +12,7 @@ const GuranteePage = () => {
 
     <h5>We are so confident in the God given power of this product, that we offer a 100% money back, 60 Day guarantee. In other words, if for whatever reason at all, you don't fall in love with EndoPeak, just call us up toll free, and ask for you money back. We will honor it.</h5>
     <br/>
-    <h3>Get your Endopeak supplment and see for yourself</h3>
+    <h3>Get your BioDynamix supplment and see for yourself</h3>
    <button >Get Discount Now
 
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-cart-plus m-2" viewBox="0 0 16 16">

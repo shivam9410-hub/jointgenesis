@@ -30,12 +30,12 @@ const IngredientPage = () => {
     <Container fluid  className="ingredientpage">
     <div className="ingredientpagetext">
     <p>
-        The Endo Peak supplement is made of all the natural and organic
-        ingredients. Have a look at the ingredients of the Endo Peak in the
+        The  BioDynamix supplement is made of all the natural and organic
+        ingredients. Have a look at the ingredients of the BioDynamix in the
         below section:
         <br></br>
         The ingredients used in the formation of
-        <strong> EndoPeak</strong>
+        <strong> Biodynamix</strong>
         &nbsp; are mentioned below:
       </p>
 

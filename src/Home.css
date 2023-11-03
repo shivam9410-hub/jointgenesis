@@ -65,3 +65,6 @@ padding: 40px;;
 h1{
     font-weight: bolder;
 }
+.prevprice{
+     text-decoration: line-through;
+}

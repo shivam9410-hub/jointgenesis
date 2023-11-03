@@ -7,8 +7,8 @@ const Dontwaitpage = () => {
      <Container fluid className='dontwait'>
   <div className='dontwaitcontent'>
 <h3>Don't Wait Any Longer! Order Your <br></br> Discounted Bottle Now!</h3>
-    <span>Regular Price:$179</span>
-    <h3>ONLY FOR:$49/PER BOTTLE</h3>
+Regular Price: <span className='prevprice'>$179/per bottle</span>
+    <h3>ONLY FOR:$49/per bottle</h3>
 
     <button className='dontwaitbtn'>GET YOU DISCOUNT NOW</button>
   </div>

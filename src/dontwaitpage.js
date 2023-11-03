@@ -10,7 +10,12 @@ const Dontwaitpage = () => {
 Regular Price: <span className='prevprice'>$179/per bottle</span>
     <h3>ONLY FOR:$49/per bottle</h3>
 
-    <button className='dontwaitbtn'>GET YOU DISCOUNT NOW</button>
+    <button className='dontwaitbtn'> <strong>
+    GET YOU DISCOUNT NOW
+      </strong>
+      
+      
+     </button>
   </div>
   <div className='dontwaitimg'><img src={jointgenesis} alt=''/></div>
      </Container>

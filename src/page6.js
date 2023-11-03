@@ -30,12 +30,12 @@ const IngredientPage = () => {
     <Container fluid  className="ingredientpage">
     <div className="ingredientpagetext">
     <p>
-        The  BioDynamix supplement is made of all the natural and organic
-        ingredients. Have a look at the ingredients of the BioDynamix in the
+        The  Joint Genesis supplement is made of all the natural and organic
+        ingredients. Have a look at the ingredients of the Joint Genesis in the
         below section:
         <br></br>
         The ingredients used in the formation of
-        <strong> Biodynamix</strong>
+        <strong> Joint Genesis</strong>
         &nbsp; are mentioned below:
       </p>
 

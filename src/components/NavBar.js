@@ -12,7 +12,7 @@ function NavBar() {
       <nav className="navbar">
         <div className="nav-container">
           <a exact href="/" className="nav-logo">
-          <strong>  <h3>BioDynamix</h3></strong>
+          <strong>  <h3>Joint Genesis</h3></strong>
           </a>
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>

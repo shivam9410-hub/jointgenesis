@@ -12,22 +12,22 @@ const SecondPage = () => {
     {
       title: "Made In USA",
       img:   madeinusa,
-      description: "BioDynamix is manufactured in a US-based facility.",
+      description: "Joint Genesis is manufactured in a US-based facility.",
     },
     {
       title: "100% Natural",
       img: naturalimage,
-      description: "In BioDynamix all ingredients are pure, natural, and carefully sourced.",
+      description: "In Joint Genesis all ingredients are pure, natural, and carefully sourced.",
     },
     {
       title: "GMP Certified",
       img: gmpcertified,
-      description: "BioDynamix is GMP certified ensuring pharmaceutical grade quality.",
+      description: "Joint Genesis is GMP certified ensuring pharmaceutical grade quality.",
     },
     {
       title: "FDA Approved",
       img: fdaapproved,
-      description: "BioDynamix is manufactured according to the latest standards",
+      description: "Joint Genesis is manufactured according to the latest standards",
     },
   ];
   return (

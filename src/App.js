@@ -27,11 +27,11 @@ function App() {
       <SecondPage />
       <Globalheading title="Proven By Thousands?" />
       <TestimonialPage />
-      <Globalheading title="What is Joint Genesis Supplement?" />
+      <Globalheading    title="What is Joint Genesis Supplement?" />
       <About />
-
+<span className="actnow">
       <Globalheading title="Limited Time Special Pricing-Act Now! Secure Your Reserved Joint Genesis While Stocks Last"/>
-      
+      </span>
       <Price/>
       <Globalheading title="How does Joint Genesis Works?" />
       <EndoWork />

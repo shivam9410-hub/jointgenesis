@@ -18,6 +18,10 @@
     font-weight: bolder;
     font-size: 30px;
 }
+.homebtn:hover{
+     background-color: rgb(147, 21, 21);
+     color:white ;
+}
 .Home{   
 display: flex;
 flex-direction: column;

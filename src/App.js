@@ -18,6 +18,7 @@ import Price from "./Price";
 import { NavbarToggle } from "react-bootstrap"
 import NavBar from './components/NavBar'
 import Fda from "./fda";
+import Limittimeprice from "./limittimeprice";
 function App() {
   return (
     <div className="main">
@@ -30,7 +31,7 @@ function App() {
       <Globalheading    title="What is Joint Genesis Supplement?" />
       <About />
 <span className="actnow">
-      <Globalheading title="Limited Time Special Pricing-Act Now! Secure Your Reserved Joint Genesis While Stocks Last"/>
+    <Limittimeprice/>
       </span>
       <Price/>
       <Globalheading title="How does Joint Genesis Works?" />
@@ -40,7 +41,7 @@ function App() {
     
    <GuranteePage/>
 
-
+<br></br>
 <Globalheading title="Benefits of Joint Genesis"/>
    <Benefits/>
     <Dontwaitpage/>

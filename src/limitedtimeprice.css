@@ -1,0 +1,10 @@
+.limited{
+    background-color: rgb(17, 131, 17);
+   text-align: center;
+}
+.limited h1{
+     color: white;
+}
+.limited h2{
+    color: yellow;
+}

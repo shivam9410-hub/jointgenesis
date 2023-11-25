@@ -13,13 +13,13 @@ const Fda = () => {
      </br>
 
      © Copyright: &nbsp;
-     <a href='/' >Joint Genesis</a>
+   Joint Genesis
      &nbsp;- All Right Reserved
      <br>
      </br>
-     <a href=''>Privacy Policy</a> 
+     <a href='https://jointgenesis.com/privacy.php'>Privacy Policy</a> 
        |  <a>Disclaimer</a> |
-       <a>Terms of Use</a>
+       <a href='https://jointgenesis.com/terms.php'>Terms of Use</a>
        |
        <a>Order Support</a>
         </p>

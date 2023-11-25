@@ -15,12 +15,20 @@
     padding:10px 25px;
     background-color: red;
     color: white;
+    box-shadow: none
+    ;
+    outline: none;
     font-weight: bolder;
     font-size: 30px;
+    border-radius: 10px;
+    border: none;
 }
 .homebtn:hover{
      background-color: rgb(147, 21, 21);
      color:white ;
+}
+.homebtn:active,.homebtn:focus{
+    outline: none;
 }
 .regularprice{
      font-size: 30px;

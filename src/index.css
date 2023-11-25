@@ -1,12 +1,11 @@
-body {
 
-}
 *{
 
   font-family: 'Open Sans', sans-serif;
   font-weight: 100px;
  height: auto;
- 
+ scroll-behavior: smooth;
+ scrollbar-color: grey;
 }
 p{
   font-size: 21px !important;

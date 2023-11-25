@@ -21,7 +21,7 @@ const Benefits = () => {
 ]
   return (
     <Container className='benefits' >
-       <h1 style={{textAlign:'center', fontWeight:'bold !important', marginBottom:'20px' }}>Benefits of Joint Genesis</h1>
+   
         {
             benefitsarr.map((str)=>{
                  return <Benefit title={str}/>

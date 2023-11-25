@@ -8,10 +8,12 @@ function NavBar() {
 
   const handleClick = () => setClick(!click);
   const scrollToSection = (id) => {
-
+ 
    const element = document.getElementById(id);
+  
+   console.log("asdfaskdfhjaslkjfd");
     element.scrollIntoView({ behavior: 'smooth' });
-  };
+  }; 
   return (
     <>
       <nav className="navbar">

@@ -65,6 +65,9 @@ padding: 40px;;
         display: block;
         
     }
+    .regularprice{
+        font-size: 20px;
+   }
     .hometext{
         width: 100%;
         font-weight: bold !important;

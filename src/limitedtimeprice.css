@@ -1,6 +1,7 @@
 .limited{
     background-color: rgb(17, 131, 17);
    text-align: center;
+   padding: 5px;
 }
 .limited h1{
      color: white;

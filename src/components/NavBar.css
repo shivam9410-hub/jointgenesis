@@ -129,6 +129,9 @@ color: white;
     color: white;
     border: none;
   }
+  .brandname{
+    font-size: 25px;;
+  }
   .nav-links {
     padding: 1.5rem;
     width: 100%;

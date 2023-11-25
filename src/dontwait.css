@@ -52,7 +52,14 @@
         width: 100%;
         height: 300px;
      }
+     .dontwaitcontent h3{
+        font-size: 20px;
+    }
+    .dontwaitcontent .regular{
+        font-size: 15px;
+    }
 }
+
 .prevprice{
     text-decoration: line-through;
 }

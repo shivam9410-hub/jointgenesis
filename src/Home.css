@@ -22,6 +22,9 @@
      background-color: rgb(147, 21, 21);
      color:white ;
 }
+.regularprice{
+     font-size: 30px;
+}
 .Home{   
 display: flex;
 flex-direction: column;

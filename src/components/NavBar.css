@@ -10,7 +10,9 @@
   top: 0;
   z-index: 20;
 }
-
+.brandname{
+  font-size: 40px;;
+}
 .nav-container {
   display: flex;
   justify-content: center;
@@ -41,7 +43,14 @@
   height: 3rem;
   margin-left: 16px;
 }
-
+.btn{
+  background-color:#ffe161;
+  color: #614F00;
+}
+.btn:hover{
+  background-color:#ffe161;
+  color: #614F00;
+}
 .nav-menu {
   display: flex;
   list-style: none;

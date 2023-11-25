@@ -30,9 +30,12 @@ Joint Genesis exclusive recipe is the first in the world to combine four scienti
            
             <br />
             <br />
-            Regular Price:<span className="prevprice"> $179/per Bottle</span>
+           <span className="regularprice"> 
+            
+             Regular Price:<span className="prevprice"> $179/per Bottle</span>
+             </span>
             <br />
-            <br />
+            
             <span>ONLY For:$49/per Bottle </span>
           </p>
           <Button variant="" className="homebtn">ORDER NOW 

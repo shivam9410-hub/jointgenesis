@@ -40,6 +40,8 @@ function App() {
     
    <GuranteePage/>
 
+
+<Globalheading title="Benefits of Joint Genesis"/>
    <Benefits/>
     <Dontwaitpage/>
     <Happen/>

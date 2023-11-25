@@ -11,13 +11,16 @@ const EndoWork = () => {
 Even people in their 30s can experience the effects of joint degradation, according to Dr Weis of Joint Genesis. 
 
 Synovial fluid, also known as joint jello, plays a crucial role in lubricating and cushioning our cartilage, allowing smooth movement and preventing damage. 
-
+<br></br>
+<br></br>
 It also provides nourishment to the cartilage, delivering oxygen and essential nutrients to keep it healthy.
 
 Unfortunately, the key component of cartilage called hyaluronan began to degrade as early as the age of 30, resulting in reduced production of synovial fluid and decreased anti-inflammatory protection for the cartilage against harmful cytokines. 
 
 The thinning and reduction of synovial fluid contribute to most joint pain as the cartilage rubs against each other without proper lubrication. 
 
+<br></br>
+<br></br>
 Furthermore, the lack of hyaluronan leads to insufficient oxygen and nutrient supply to the cartilage, making it more prone to breakdown. 
 
 Joint Genesis Joint Genesis tackles these issues by promoting a healthy inflammatory response against cytokines and providing essential nutrients to nourish the cartilage tissue. 

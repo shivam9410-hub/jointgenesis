@@ -5,7 +5,7 @@ import  JointGenesis from './assets/joint genesis official.png' ;
 
 const Home = () => {
   return (
-    <Container  className="Home">
+    <Container  fluid className="Home">
       <div className="mainheading">
         <h1>
       Joint Genesis Only $49/Bottle - Limited Time Offer

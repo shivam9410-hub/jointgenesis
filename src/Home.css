@@ -36,7 +36,7 @@
 .Home{   
 display: flex;
 flex-direction: column;
-min-height: 100vh; overflow: hidden;
+min-height: 80vh; overflow: hidden;
 padding: 40px;;
 
 }
@@ -45,6 +45,8 @@ padding: 40px;;
      display: flex;
     align-items: center;
     justify-content: space-around;
+ 
+    width: 100%;
 
 }
 .hometext{
@@ -53,6 +55,7 @@ padding: 40px;;
 .homeimgcontainer{ 
   width: 35%;
   height: 600px;
+
 
 }
 .homeimgcontainer img{

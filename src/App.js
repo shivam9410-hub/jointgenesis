@@ -1,5 +1,5 @@
 import "./App.css";
-
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./Home";
 import Globalheading from "./Globalheading";
 import SecondPage from "./secondpage";
@@ -42,7 +42,7 @@ function App() {
    <GuranteePage/>
 
 <br></br>
-<Globalheading title="Benefits of Joint Genesis"/>
+<Globalheading title="Benefits of Joint Genesis" id='benefits' className="benefits"/>
    <Benefits/>
     <Dontwaitpage/>
     <Happen/>

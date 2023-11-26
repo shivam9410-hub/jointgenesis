@@ -22,6 +22,7 @@
     font-size: 30px;
     border-radius: 10px;
     border: none;
+    transition: 0.5s ease-in;
 }
 .homebtn:hover{
      background-color: rgb(147, 21, 21);

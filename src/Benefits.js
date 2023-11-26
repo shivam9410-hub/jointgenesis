@@ -20,7 +20,7 @@ const Benefits = () => {
 
 ]
   return (
-    <Container className='benefits' >
+    <Container className='benefits'  >
    
         {
             benefitsarr.map((str)=>{

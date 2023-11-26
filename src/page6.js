@@ -27,7 +27,7 @@ const IngredientPage = () => {
   ];
 
   return (
-    <Container fluid  className="ingredientpage">
+    <Container fluid  className="ingredientpage" id="ingredients">
     <div className="ingredientpagetext">
     <p>
         The  Joint Genesis supplement is made of all the natural and organic

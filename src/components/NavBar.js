@@ -34,7 +34,7 @@ function NavBar() {
                 Home
               </ScrollLink>
             </li>
-            <li className="nav-item">
+            <li className="nav-item ml-3">
               <ScrollLink style={{textDecoration:"none" ,color:"white" ,cursor:"pointer"}}
                 exact
                 to="ingredients"
@@ -46,7 +46,7 @@ function NavBar() {
                 Ingredients
               </ScrollLink>
             </li>
-            <li className="nav-item">
+            <li className="nav-item m-4">
               <ScrollLink style={{textDecoration:"none" ,color:"white" ,cursor:"pointer"}}
                 exact
                 scrolling="smooth"
@@ -57,7 +57,7 @@ function NavBar() {
                 Benefits
               </ScrollLink>
             </li>
-            <li className="nav-item">
+            <li className="nav-item ml-3">
              <button className="btn btn-secondary">
                 Order Now 
                 <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="m-2 bi bi-cart-plus" viewBox="0 0 16 16">
@@ -67,7 +67,7 @@ function NavBar() {
              </button>
             </li>
           </ul>
-          <div className="nav-icon" onClick={handleClick}>
+          <div className="nav-icon ml-3" onClick={handleClick}>
             {/* <i className={click ? "fas fa-times" : "fas fa-bars"}></i> */}
 
             {click ? (
